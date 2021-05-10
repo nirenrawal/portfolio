@@ -48,7 +48,7 @@ app.post("/contact", (req, res) => {
         service: 'gmail',
         auth: {
           user: process.env.USER_NAME,
-          pass: process.env.PASSWORD // naturally, replace both with your real credentials or an application-specific password
+          pass: process.env.PASSWORD 
         }
       });
       
