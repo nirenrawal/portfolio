@@ -1,0 +1,17 @@
+#footer {
+    text-align: center;
+    display: flex;
+    margin-top: 40px;
+}
+
+.footer-image {
+    width: 3%;
+}
+
+.footer-link {
+    padding: 5px 8px;
+}
+
+.copyright {
+    padding: 8px;
+}

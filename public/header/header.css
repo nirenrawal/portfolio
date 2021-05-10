@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(236, 245, 248);
+}
+
+.top-section {
+    padding: 2rem 0;
+}
+
+#main-content {
+    min-height: calc(100vh - 120px);
+}
+
+.navbar-default {
+    background-color: rgb(14, 136, 192);
+}
+
+.container-fluid {
+    margin-top: 10px;
+}
+
+
+#barca {
+    width: 90%;
+    padding: 8px;
+}
+
+#barca:hover {
+    transform: scale(1.2);
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 8px;
+}
+
